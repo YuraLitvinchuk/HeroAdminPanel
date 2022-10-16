@@ -1,0 +1,60 @@
+{
+  "heroes": [
+    {
+      "id": "01958748-8387-4ae2-9db5-959f34f305fa",
+      "name": "Водяной додик",
+      "description": "Стрелять",
+      "element": "water"
+    },
+    {
+      "id": "a74fcfa8-6436-42c4-8c15-2a8d31656be9",
+      "name": "Огненый додик",
+      "description": "Жечь",
+      "element": "fire"
+    },
+    {
+      "id": "f321b3f1-40b8-4938-b4a8-946b3c841a8f",
+      "name": "Земляной додик",
+      "description": "Сеять",
+      "element": "earth"
+    },
+    {
+      "id": "513340c0-451d-4044-adc3-ecc6a43fc735",
+      "name": "cxc",
+      "description": "123",
+      "element": ""
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "id": "fire",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id": "wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "id": "earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
